@@ -1,10 +1,10 @@
-package com.terrasdevastadas.fausekkkk;
+package com.terrasdevastadas.site;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FausekkkkApplicationTests {
+class SiteApplicationTests {
 
 	@Test
 	void contextLoads() {
